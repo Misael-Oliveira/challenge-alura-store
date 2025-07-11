@@ -17,8 +17,14 @@ A análise por categoria permite identificar quais tipos de produtos são mais v
 
 ![Categoria](assets/categoria.png)
 
-### Média de Avaliação das Lojas:
+### :chart_with_downwards_trend:  Média de Avaliação das Lojas:
+Nessa seção é possível identificar que na média de avaliação a loja 1 é a que tem a menor média, logo em seguida, um pouco melhor, é a loja 4. Já a loja 3 e 2 apresenta as melhores média.
+
 ![Media](assets/media_avaliacao.png)
+
+## :white_check_mark: Conclusão:
+
+Lavando em consideração a análise realizada com base nos dados das quatro lojas, conclui-se que a loja mais indicada para o senhor João vender é a loja 4. Essa loja apresenta o menor faturamento entre as quatro, além de ocupar a terceira posição na média de avaliação, com nota 4, ficando atrás apenas da loja 1, que possui média de 3,98. Além disso, a loja 4 é que menos vende eletrodómesticos, que uma categoria que mais gera dinheiro para as lojas
 
 ## 💻 Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,5 +33,6 @@ A análise por categoria permite identificar quais tipos de produtos são mais v
 <li>Matplotlib</li>
 <li>Numpy</li>
   </ul>
+  
 ## Autor
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/82273415?s=400&u=7033ced4115130e2278dc80f01135b4ad03457ec&v=4" width=115><br><sub> Misael Oliveira</sub>](https://github.com/Misael-Oliveira) |  
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/82273415?s=400&u=7033ced4115130e2278dc80f01135b4ad03457ec&v=4" width=115><br><sub> Misael Oliveira</sub>](https://github.com/Misael-Oliveira) 
